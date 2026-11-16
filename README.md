@@ -2,6 +2,10 @@
 
 > Este documento reúne todo o conteúdo detalhado, com ilustrações, diagramas de arquitetura passo a passo e conceitos fundamentais discutidos sobre ecossistemas de software modernos, inteligência artificial e os padrões utilizados pelas maiores empresas de tecnologia do mundo.
 
+> [!TIP]
+> **Vai continuar este projeto em outro computador com outra IA?**  
+> Consulte o arquivo com o prompt e as regras prontas em: **[INSTRUCOES_PARA_IA.md](INSTRUCOES_PARA_IA.md)**.
+
 ---
 
 ## 📑 Índice
